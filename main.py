@@ -57,7 +57,7 @@ def callback(event):
 root = tk.Tk()
 root.title("TermiSearch")
 
-# Disable full-screen, resizing, and maximizing
+# Disable full-screen, resizing, and maximizing (haven't fixed this as yet.)
 root.attributes("-fullscreen", False)
 root.resizable(False, False)
 
