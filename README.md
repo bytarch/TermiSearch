@@ -17,9 +17,15 @@ TermiSearch is a simple search engine application built using Python's Tkinter f
    git clone https://github.com/jimboo420/TermiSearch.git
 
 
-2. Install the required packages using pip: pip install -r requirements.txt
+2. Install the required packages using pip:
 
-3. Run the application: python main.py
+    ```bash
+    pip install -r requirements.txt
+
+3. Run the application: 
+    
+    ```bash
+    python main.py
 
 Usage
 Enter your search query in the text entry field.
