@@ -16,7 +16,6 @@ TermiSearch is a simple search engine application built using Python's Tkinter f
    ```bash
    git clone https://github.com/jimboo420/TermiSearch.git
 
-
 2. Install the required packages using pip:
 
     ```bash
